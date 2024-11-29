@@ -4,8 +4,21 @@ body {
 }
 
 header {
- border: inset 6px rgb(185, 202, 29);
+ border: inset 6px rgb(29, 202, 193);
  font-size: 36;
  padding: 20px;
  color: rgb(20, 69, 204);
+}
+
+section {
+    background: rgb(90,1,1);
+padding-bottom: 80px;
+padding-top:80px;
+display: flex;
+justify-content: center;
+
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }
